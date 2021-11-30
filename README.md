@@ -5,7 +5,7 @@ A collection of engineering ladders for reference and inspiration.
 - [Axelerant](https://www.axelerant.com/resources/articles/how-to-design-an-effective-career-ladder-for-engineers)
 - [Basecamp](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
 - [Buffer](https://open.buffer.com/engineering-career-framework/)
-- [Career-ladders.dev](https://career-ladders.dev/engineering/)
+- [Carta](https://medium.com/building-carta/engineering-levels-at-carta-d33db2a55a20)
 - [Chartbeat](http://engineering.chartbeat.com/2015/06/05/engineering-ladders/)
 - [CircleCI](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)
 - [Envoy](https://github.com/envoy/Engineering/blob/master/engineering_bands.md)
@@ -24,6 +24,7 @@ A collection of engineering ladders for reference and inspiration.
 
 ##  Engineering Ladder Collections
 
+- [Career-ladders.dev](https://career-ladders.dev/engineering/)
 - [SqueakyVessel](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/#songkick-ladder)
 - [Progression.fyi](http://www.progression.fyi/)
 
