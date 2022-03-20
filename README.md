@@ -28,6 +28,7 @@ A collection of engineering ladders for reference and inspiration.
 - [Career-ladders.dev](https://career-ladders.dev/engineering/)
 - [SqueakyVessel](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/#songkick-ladder)
 - [Progression.fyi](http://www.progression.fyi/)
+- [30+ Engineering Career Ladders](https://www.nidup.io/garden/engineering-career-ladders)
 
 ##  Other Engineering Ladder Resources
 
