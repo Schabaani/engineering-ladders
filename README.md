@@ -15,6 +15,7 @@ A collection of engineering ladders for reference and inspiration.
 - [Kickstarter](https://gist.github.com/jamtur01/aef437a79fee5a9cefdc)
 - [Medium](https://medium.com/s/engineering-growth-framework)
 - [Meetup.com](https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e)
+- [Monday.com](https://growth.monday.com/homepage/rd/engineering/)
 - [Monzo](https://progression.monzo.com/)
 - [Rent the Runway](http://dresscode.renttherunway.com/blog/ladder)
 - [Songkick](https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf)
