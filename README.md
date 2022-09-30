@@ -16,6 +16,7 @@ A collection of engineering ladders for reference and inspiration.
 - [Medium](https://medium.com/s/engineering-growth-framework)
 - [Meetup.com](https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e)
 - [Mercari](https://engineering.mercari.com/en/ladder/)
+- [Monday.com](https://growth.monday.com/homepage/rd/engineering/)
 - [Monzo](https://progression.monzo.com/)
 - [Rent the Runway](http://dresscode.renttherunway.com/blog/ladder)
 - [Songkick](https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf)
@@ -29,11 +30,13 @@ A collection of engineering ladders for reference and inspiration.
 - [Career-ladders.dev](https://career-ladders.dev/engineering/)
 - [SqueakyVessel](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/#songkick-ladder)
 - [Progression.fyi](http://www.progression.fyi/)
+- [30+ Engineering Career Ladders](https://www.nidup.io/garden/engineering-career-ladders)
 
 ##  Other Engineering Ladder Resources
 
 - [Creating a career ladder for engineers](https://www.youtube.com/watch?v=jA1Q94d2z10&list=PLBzScQzZ83I9F5RvpuDdABrLvu_w1QEUi) &mdash; conference talk video
 - [Evolving the One Medical Leveling Guide](https://medium.com/one-medical-technology/evolving-the-one-medical-leveling-guide-51dc82d7e26c) &mdash; process for updating and evolving career ladders over time
+- [Engineering Ladders](https://github.com/jorgef/engineeringladders) &mdash; A framework for Engineering Managers
 
 ## Engineering Management
 
