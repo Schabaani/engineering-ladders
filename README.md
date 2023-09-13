@@ -21,6 +21,7 @@ A collection of engineering ladders for reference and inspiration.
 - [Monzo](https://progression.monzo.com/)
 - [Rent the Runway](http://dresscode.renttherunway.com/blog/ladder)
 - [Revelo](https://labs.revelo.com/template/revelo-revelo-engineering-ladder-1?utm_source=github&utm_medium=github&utm_campaign=engineering-ladders)
+- [Skylight](https://skylight.digital/careers/career-pathways/software-engineer/)
 - [Songkick](https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf)
 - [Soundcloud](https://developers.soundcloud.com/blog/engineering-levels)
 - [Spotify](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)
