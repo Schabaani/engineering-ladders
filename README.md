@@ -25,10 +25,10 @@ A collection of engineering ladders for reference and inspiration.
 - [Songkick](https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf)
 - [Soundcloud](https://developers.soundcloud.com/blog/engineering-levels)
 - [Spotify](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)
-- [Square](https://docs.google.com/spreadsheets/d/12h50IYqd7fsO7tJ0l1OuHYbz5vN2d24a8EIDFhu2AZQ/edit#gid=2035430096)
+- [Square](https://developer.squareup.com/blog/squares-updated-growth-framework-for-engineers-and-engineering-managers/)
 - [VTS](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3)
 
-##  Engineering Ladder Collections
+## Engineering Ladder Collections
 
 - [Career-ladders.dev](https://career-ladders.dev/engineering/)
 - [Career Tracker](https://labs.revelo.com/?utm_source=github&utm_medium=github&utm_campaign=engineering-ladders)
@@ -36,7 +36,7 @@ A collection of engineering ladders for reference and inspiration.
 - [Progression.fyi](http://www.progression.fyi/)
 - [30+ Engineering Career Ladders](https://www.nidup.io/garden/engineering-career-ladders)
 
-##  Other Engineering Ladder Resources
+## Other Engineering Ladder Resources
 
 - [Creating a career ladder for engineers](https://www.youtube.com/watch?v=jA1Q94d2z10&list=PLBzScQzZ83I9F5RvpuDdABrLvu_w1QEUi) &mdash; conference talk video
 - [Evolving the One Medical Leveling Guide](https://medium.com/one-medical-technology/evolving-the-one-medical-leveling-guide-51dc82d7e26c) &mdash; process for updating and evolving career ladders over time
