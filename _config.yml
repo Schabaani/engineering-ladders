@@ -1,0 +1,5 @@
+title: Engineering Ladders
+description: A collection of engineering ladders for reference and inspiration.
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
