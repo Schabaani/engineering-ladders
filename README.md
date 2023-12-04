@@ -13,6 +13,7 @@ A collection of engineering ladders for reference and inspiration.
 - [GitLab](https://about.gitlab.com/handbook/engineering/career-development/)
 - [Glossier](https://medium.com/glossier/building-an-engineering-ladder-at-glossier-e7fc3a390695)
 - [Fog Creek](https://www.joelonsoftware.com/2009/02/13/fog-creek-professional-ladder/)
+- [InfraCloud](https://career-ladders.infracloud.io/docs/)
 - [Kickstarter](https://gist.github.com/jamtur01/aef437a79fee5a9cefdc)
 - [Medium](https://medium.com/s/engineering-growth-framework)
 - [Meetup.com](https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e)
