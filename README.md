@@ -6,7 +6,6 @@ A collection of engineering ladders for reference and inspiration.
 - [Basecamp](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
 - [Buffer](https://open.buffer.com/engineering-career-framework/)
 - [Carta](https://medium.com/building-carta/engineering-levels-at-carta-d33db2a55a20)
-- [Chartbeat](http://engineering.chartbeat.com/2015/06/05/engineering-ladders/)
 - [CircleCI](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)
 - [Dropbox](https://dropbox.github.io/dbx-career-framework/)
 - [Envoy](https://github.com/envoy/Engineering/blob/master/engineering_bands.md)
